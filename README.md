@@ -1,34 +1,42 @@
-### Olá 👋
+### Olá, eu sou o Bryan Rosa 👋
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" />
+  <img alt="Bryan's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bryan-014&show_icons=true&theme=dracula" />
+</p>
 
 - 🚀 Desenvolvedor Full-Stack!
 - 🌱 21 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula)](https://github.com/Bryan-014/github-readme-stats) 
-
 ## Sobre Mim
 
 Busco ingressar no mercado de trabalho como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá. Busco oportunidades de novos estágios ou algum cargo de desenvolvedor junior, atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar para o crescimento da empresa. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-014&show_icons=true&theme=radical)
+## 🛠️ Tecnologias e Ferramentas
 
-[LinkedIn](https://linkedin.com/in/bryan-rosa-da-silveira) | [Meu Portifólio](https://weros.tech/bryan/)
+Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,java,mysql,git,c#" />
+  </a>
+</p>
+
+## 🔭 Em que estou trabalhando
+
+Atualmente, meu principal projeto é um Dashboard Financeiro que estou desenvolvendo para diferentes regras de negócio, desde vendas de produtos e alimentos à contratação de serviços recorrentes. É um projeto desafiador e uma ótima oportunidade de aplicar meus conhecimentos em um cenário prático.
+
+## 📫 Conecte-se comigo
+
+Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
+
+Meu Email: bryangustavo201904@gmail.com
+[Meu Portifólio](https://weros.tech/bryan/)
+<p align="left">
+<a href="https://linkedin.com/in/bryan-rosa-da-silveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-rosa" height="30" width="40" /></a>
+<a href="https://instagram.com/bryan_rosa41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanrosa" height="30" width="40" /></a>
 
 
+![snake gif](https://github.com/Bryan-014/Bryan-014/blob/output/github-contribution-grid-snake.gif)
 
-
-
-
-
-<!--
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
