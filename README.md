@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,java,mysql,git,c#" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,java,mysql,git,cs" />
   </a>
 </p>
 
@@ -35,6 +35,3 @@ Meu Email: bryangustavo201904@gmail.com | [Meu Portifólio](https://weros.tech/b
 <p align="left">
 <a href="https://linkedin.com/in/bryan-rosa-da-silveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-rosa" height="30" width="40" /></a>
 <a href="https://instagram.com/bryan_rosa41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanrosa" height="30" width="40" /></a>
-
-![snake gif](https://github.com/Bryan-014/Bryan-014/blob/output/github-contribution-grid-snake.gif)
-
