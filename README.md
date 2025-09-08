@@ -1,10 +1,10 @@
 ### Olá 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula)](https://github.com/Bryan-014/github-readme-stats) 
-
 - 🚀 Desenvolvedor Full-Stack!
 - 🌱 21 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula)](https://github.com/Bryan-014/github-readme-stats) 
 
 ## Sobre Mim
 
