@@ -1,4 +1,4 @@
-### Olá, eu sou o Bryan Rosa 👋
+## Olá, eu sou o Bryan Rosa 👋
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" />
@@ -9,11 +9,11 @@
 - 🌱 21 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
 
-## Sobre Mim
+### 👩🏻‍💻 Sobre Mim
 
-Busco ingressar no mercado de trabalho como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá. Busco oportunidades de novos estágios ou algum cargo de desenvolvedor junior, atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar para o crescimento da empresa. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
+Busco ingressar no mercado de trabalho como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá. Busco oportunidades de novos estágios ou algum cargo de desenvolvedor junior, atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
@@ -23,11 +23,11 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
   </a>
 </p>
 
-## 🔭 Em que estou trabalhando
+### 🔭 Em que estou trabalhando
 
 Atualmente, meu principal projeto é um Dashboard Financeiro que estou desenvolvendo para diferentes regras de negócio, desde vendas de produtos e alimentos à contratação de serviços recorrentes. É um projeto desafiador e uma ótima oportunidade de aplicar meus conhecimentos em um cenário prático.
 
-## 📫 Conecte-se comigo
+### 📫 Conecte-se comigo
 
 Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
 
