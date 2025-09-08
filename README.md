@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,laravel,bootstrap,java,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=cs,laravel,java,py,react,html,js,css,bootstrap,mysql,git" />
   </a>
 </p>
 
