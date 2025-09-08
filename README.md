@@ -31,12 +31,10 @@ Atualmente, meu principal projeto é um Dashboard Financeiro que estou desenvolv
 
 Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
 
-Meu Email: bryangustavo201904@gmail.com
-[Meu Portifólio](https://weros.tech/bryan/)
+Meu Email: bryangustavo201904@gmail.com | [Meu Portifólio](https://weros.tech/bryan/)
 <p align="left">
 <a href="https://linkedin.com/in/bryan-rosa-da-silveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-rosa" height="30" width="40" /></a>
 <a href="https://instagram.com/bryan_rosa41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanrosa" height="30" width="40" /></a>
-
 
 ![snake gif](https://github.com/Bryan-014/Bryan-014/blob/output/github-contribution-grid-snake.gif)
 
