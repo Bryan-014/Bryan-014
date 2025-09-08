@@ -12,8 +12,7 @@ Busco ingressar no mercado de trabalho como desenvolvedor de software, atualment
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-014&show_icons=true&theme=radical)
 
-[LinkedIn](https://linkedin.com/in/bryan-rosa-da-silveira) 
-[Meu Portifólio](https://weros.tech/bryan/)
+[LinkedIn](https://linkedin.com/in/bryan-rosa-da-silveira) | [Meu Portifólio](https://weros.tech/bryan/)
 
 
 
