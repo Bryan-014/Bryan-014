@@ -9,7 +9,7 @@
 - 🌱 21 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
 
-### 👩🏻‍💻 Sobre Mim
+### 👨🏻‍💻 Sobre Mim
 
 Busco ingressar no mercado de trabalho como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá. Busco oportunidades de novos estágios ou algum cargo de desenvolvedor junior, atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
 
