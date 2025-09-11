@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" />
-  <img alt="Bryan's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bryan-014&show_icons=true&theme=dracula" />
+<!--   <img alt="Bryan's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bryan-014&show_icons=true&theme=dracula" /> -->
 </p>
 
 - 🚀 Desenvolvedor Full-Stack!
