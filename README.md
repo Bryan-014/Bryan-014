@@ -1,17 +1,17 @@
 ## Olá, eu sou o Bryan Rosa 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" />
+  <!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" /> -->
 <!--   <img alt="Bryan's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bryan-014&show_icons=true&theme=dracula" /> -->
 </p>
 
 - 🚀 Desenvolvedor Full-Stack!
-- 🌱 21 anos
+- 🌱 22 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
 
 ### 👨🏻‍💻 Sobre Mim
 
-Busco ingressar no mercado de trabalho como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá. Busco oportunidades de novos estágios ou algum cargo de desenvolvedor junior, atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
+Busco sempre aprimorar minhas habilidades como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá e estou estagiando no GALLI Group construindo um CRM multi empresarial. Atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 ### 🔭 Em que estou trabalhando
 
-Atualmente, meu principal projeto é um Dashboard Financeiro que estou desenvolvendo para diferentes regras de negócio, desde vendas de produtos e alimentos à contratação de serviços recorrentes. É um projeto desafiador e uma ótima oportunidade de aplicar meus conhecimentos em um cenário prático.
+Atualmente, meu principal projeto é um Sistema de gerenciamento de relacionamento com clientes (CRM) para o GALLI Group, um grupo de 5 empresas (GALLI Advogados, Fiscalli, Ambientalli, Ivaí - Gestão Financeira e IAP - Instituto Agroportuário), o objetivo do CRM é conectar todas as empresas tornando todos os processos mais eficiêntes e conectados.
 
 ### 📫 Conecte-se comigo
 
