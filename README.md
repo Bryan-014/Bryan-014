@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Apaixonado+por+tecnologia,+programação+e+inovação!&center=true&size=18)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Apaixonado+por+tecnologia,+código+e+inovação!&center=true&size=20)
 
 ## Desenvolvedor Full-Stack!
 
