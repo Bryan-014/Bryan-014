@@ -1,8 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Bryan;Seja+bem-vindo+ao+meu+perfil!;Amo+tecnologia,+código+e+inovação!&center=true&size=20)
+# 💻 Desenvolvedor Full-Stack
+</br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Bryan;Seja+bem-vindo+ao+meu+Github!;Amo+tecnologia,+código+e+inovação!&center=true&size=20)
 
 ---
 
-- 💻 Desenvolvedor Full-Stack. Focado em desenvolvimento Web e Mobile, sempre focando em segurança, usabilidade, desempenho e manutenibilidade!
+- 🔒 Focado em desenvolvimento Web e Mobile, sempre focando em segurança, usabilidade, desempenho e manutenibilidade!
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
 - 💼 GALLI Group
 - 🌱 22 anos
@@ -20,7 +23,7 @@ Busco sempre aprimorar minhas habilidades como desenvolvedor de software, atualm
 Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,laravel,java,py,react,html,js,css,bootstrap,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,laravel,java,py,react,mysql,git,docker,html,js,css,bootstrap" />
 </p>
 
 ### 🔭 Em que estou trabalhando
