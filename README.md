@@ -1,31 +1,26 @@
-## Olá, eu sou o Bryan Rosa 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Sou+apaixonado+por+tecnologia,+programação+e+inovação!&center=true&size=20)
 
-<p align="left"> 
-  <!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-014&layout=compact&theme=dracula" /> -->
-<!--   <img alt="Bryan's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bryan-014&show_icons=true&theme=dracula" /> -->
-</p>
+## Desenvolvedor Full-Stack!
 
-- 🚀 Desenvolvedor Full-Stack!
 - 🌱 22 anos
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
+- 💻 GALLI Group
 
 ### 👨🏻‍💻 Sobre Mim
 
-Busco sempre aprimorar minhas habilidades como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá e estou estagiando no GALLI Group construindo um CRM multi empresarial. Atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
+Busco sempre aprimorar minhas habilidades como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá e estou estagiando no GALLI Groupl. Atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
 
 ### 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,laravel,java,py,react,html,js,css,bootstrap,mysql,git" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,laravel,java,py,react,html,js,css,bootstrap,mysql,git,docker" />
 </p>
 
 ### 🔭 Em que estou trabalhando
 
-Atualmente, meu principal projeto é um Sistema de gerenciamento de relacionamento com clientes (CRM) para o GALLI Group, um grupo de 5 empresas (GALLI Advogados, Fiscalli, Ambientalli, Ivaí - Gestão Financeira e IAP - Instituto Agroportuário), o objetivo do CRM é conectar todas as empresas tornando todos os processos mais eficiêntes e conectados.
+Atualmente, o meu principal projeto que estou desenvolvendo é um aplicativo mobile de gerenciamento financeiro familiar, com o objetivo de realizar gestão de fluxo de caixa, geração de relatórios e gerenciamento de lista de compras. O diferencial desse aplicativo é a integração com Inteligência Artificial para geração de insights e relatórios.
 
 ### 📫 Conecte-se comigo
 
