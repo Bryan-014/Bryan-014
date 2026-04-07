@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Amo+tecnologia,+código+e+inovação!&center=true&size=25)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Bryan;Seja+bem-vindo+ao+meu+perfil!;Amo+tecnologia,+código+e+inovação!&center=true&size=20)
 
 ---
 
