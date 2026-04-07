@@ -1,14 +1,19 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Apaixonado+por+tecnologia,+código+e+inovação!&center=true&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+O+meu+nome+é+Bryan;Seja+bem-vindo+ao+meu+Github!;Amo+tecnologia,+código+e+inovação!&center=true&size=25)
 
-## Desenvolvedor Full-Stack!
+---
 
-- 🌱 22 anos
+- 💻 Desenvolvedor Full-Stack. Focado em desenvolvimento Web e Mobile, sempre focando em segurança, usabilidade, desempenho e manutenibilidade!
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná | IFPR
-- 💻 GALLI Group
+- 💼 GALLI Group
+- 🌱 22 anos
 
 ### 👨🏻‍💻 Sobre Mim
 
 Busco sempre aprimorar minhas habilidades como desenvolvedor de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná de Paranaguá e estou estagiando no GALLI Groupl. Atuo como desenvolvedor Full-Stack, porém qualquer oportunidade para crescer como programador estou disposto a aprender e colaborar. Onde mais tenho experiências é com desenvolvimento web, mas já atuei com desenvolvimento desktop e mobile.
+
+### 🗓️ Atividade Recente
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryan-014&theme=dracula)](https://git.io/streak-stats)
 
 ### 🛠️ Tecnologias e Ferramentas
 
