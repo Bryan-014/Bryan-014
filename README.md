@@ -34,7 +34,7 @@ Atualmente, o meu principal projeto que estou desenvolvendo é um aplicativo mob
 
 Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
 
-Meu Email: bryangustavo201904@gmail.com | [Meu Portifólio](https://portfolio-bryan.vercel.app/)
+Meu Email: bryangustavo201904@gmail.com | [Meu Portifólio](https://portfolio-bryan.vercel.app/) | [Github Empresarial](https://github.com/BryanGalliGroup)
 <p align="left">
 <a href="https://linkedin.com/in/bryan-rosa-da-silveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-rosa" height="30" width="40" /></a>
 <a href="https://instagram.com/bryan_rosa41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanrosa" height="30" width="40" /></a>
